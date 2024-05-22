@@ -3,9 +3,6 @@ info:
   version: '1'
   title: 'DEMO-QA'
   description: Buy or rent spacecrafts
-  server:
-     - url: http://localhost:3000
-      description: Demo API
 paths:
   /spacecrafts/{spacecraftId}:
     parameters:
